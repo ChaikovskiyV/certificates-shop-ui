@@ -20,10 +20,10 @@ An admin page:
 
 Below are several views of popup windows for different action lower:
 - add new certificate
-![Create a new item](images/create_new_item.png)
+![Create a new item](images/create_new.png)
 - view certificate's details
-![View an item](images/view_item.png)
+![View an item](images/view_details.png)
 - edit the certificate
-![Update an item](images/update_item.png)
+![Update an item](images/update_certificate.png)
 - delete the certificate
-![Delete an item](images/delete_item.png)
+![Delete an item](images/delete_certificate.png)
