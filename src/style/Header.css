@@ -1,0 +1,23 @@
+header {
+    top: 0%;
+    display: grid;
+    grid-template-columns: 14vw 14vw auto 15vw 12vw;
+  }
+  
+  header * {
+    margin: auto;
+  }
+  
+  .addNew {
+    grid-column: 2;
+    width: 100%;  
+  }
+  
+  .userLogin {
+    grid-column: 4;
+  }
+  
+  .logout a {
+    text-decoration: none;
+    color: black;
+  }

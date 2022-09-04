@@ -1,0 +1,20 @@
+.button-group {
+    display: inline-block;
+    width: 100%;
+}
+
+.view-button {
+    width: 35%;
+}
+
+.edit-button {
+    background-color: darkgoldenrod;
+    margin-left: -1px;
+    width: 30%;
+}
+
+.delete-button {
+    background-color: red;
+    margin-left: -1px;
+    width: 35%;
+}

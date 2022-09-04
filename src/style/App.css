@@ -1,0 +1,26 @@
+body{
+  background-color: papayawhip;
+}
+
+footer,
+header {
+  position: fixed;
+  width: 100%;
+  background-color: gray;
+  padding: 20px;
+}
+
+button {
+  background-color: cornflowerblue;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+h1 {
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  background-color: gainsboro;
+}

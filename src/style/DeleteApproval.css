@@ -1,0 +1,36 @@
+.approval-container {
+    position: absolute;
+    width: 50vw;
+    height: 300px;
+    left: 25vw;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+}
+
+.approval-container p {
+    width: 100%;
+    margin: auto;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.approval-buttons {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    align-self: center;
+}
+
+.approval-buttons * {
+    margin-left: 20px;    
+    background-color: gainsboro;
+}
+
+.yes-button {
+    background-color: red;
+}
+
+.cancel-button {
+    color: black;
+}

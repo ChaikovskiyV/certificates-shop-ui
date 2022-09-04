@@ -1,0 +1,21 @@
+.search-field {
+    width: 100%;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.search-field * {
+    padding: 10px;
+}
+
+.search-field input {
+    width: 86%;
+    border: none;
+}
+
+.search-field button {
+    width: 10%;
+    margin-left: -1px;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+}

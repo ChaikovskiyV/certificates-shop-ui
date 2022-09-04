@@ -1,0 +1,35 @@
+.add-new-container {
+    position: absolute;
+    width: 60vw;
+    height: 470px;
+    left: 20vw;
+    background-color: white;
+}
+
+.add-new-container h1 {
+    padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    background-color: gainsboro;
+}
+
+.add-new-form {
+    width: 55vw;
+    margin: auto;
+}
+
+.button-group {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    align-self: center;
+}
+
+.certificate-button-group * {
+    margin-left: 20px;
+    background-color: cornflowerblue;
+}
+
+.certificate-error {
+font-size: 16px;
+}
